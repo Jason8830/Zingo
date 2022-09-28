@@ -12,7 +12,28 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.center{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.container{
+  justify-content: space-between;
+  align-items: stretch;
+}
+.submit{
+  margin-left: 70px;
+  font-family: 'Bungee Spice', cursive;
+  background-color: black;
+}
+.title{
+  font-family: 'Bungee Spice', cursive;
+  font-size: 80px;
+  margin-top: -80px;
+  background-color: black;
+}
 .App-header {
   background-color: none;
   min-height: 100vh;
