@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Zingo/static/css/main.ad2eede3.css",
+    "main.js": "/Zingo/static/js/main.1e0daee3.js",
+    "static/js/787.6dc450f8.chunk.js": "/Zingo/static/js/787.6dc450f8.chunk.js",
+    "static/media/sticker.PNG": "/Zingo/static/media/sticker.e8ea6b305caa604dcf48.PNG",
+    "static/media/logo.svg": "/Zingo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Zingo/index.html",
+    "main.ad2eede3.css.map": "/Zingo/static/css/main.ad2eede3.css.map",
+    "main.1e0daee3.js.map": "/Zingo/static/js/main.1e0daee3.js.map",
+    "787.6dc450f8.chunk.js.map": "/Zingo/static/js/787.6dc450f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2eede3.css",
+    "static/js/main.1e0daee3.js"
+  ]
+}
